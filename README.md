@@ -54,3 +54,7 @@ Tahapan praktik meliputi:
 
 Pendapat Pribadi :
 Menurut saya, kegiatan hari pertama workshop proyek membantu saya memahami lebih jelas tentang cara menggunakan AI, serta bagaimana memanfaatkan Git dan GitHub dalam proses pengembangan proyek. Dengan melakukan praktik langsung, saya semakin mengerti cara mengelola perubahan file dan menyimpan proyek secara online. Materi ini juga berguna sebagai persiapan yang mendukung peningkatan kemampuan di bidang teknologi informasi.
+
+NOTEE !!
+
+Untuk index.html, Scripct.js dan Style.css itu merupakan praktik membuat website yang dilakukan bersama dengan pemateri.
