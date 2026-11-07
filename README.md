@@ -1,5 +1,9 @@
 # Day-1-PUBG_Rizqy-Aditia-Pratama
 
+Nama : Rizqy Aditia Pratama
+Kelas : TMJ 1B
+Kelompok : 1_Pubg
+
 Deskripsi Repository : Platform ini berfungsi sebagai sarana penyimpanan dan manajemen arsip proyek secara daring melalui ekosistem GitHub. Repository ini digunakan untuk menyimpan, mengatur, dan menjelaskan berbagai file sehingga perubahan bisa diatur dengan baik dan diakses secara mudah.
 
 Tujuan Repository :
