@@ -1,7 +1,9 @@
 # Day-1-PUBG_Rizqy-Aditia-Pratama
 
 Nama : Rizqy Aditia Pratama
+
 Kelas : TMJ 1B
+
 Kelompok : 1_Pubg
 
 Deskripsi Repository : Platform ini berfungsi sebagai sarana penyimpanan dan manajemen arsip proyek secara daring melalui ekosistem GitHub. Repository ini digunakan untuk menyimpan, mengatur, dan menjelaskan berbagai file sehingga perubahan bisa diatur dengan baik dan diakses secara mudah.
@@ -61,4 +63,4 @@ Menurut saya, kegiatan hari pertama workshop proyek membantu saya memahami lebih
 
 NOTEE !!
 
-Untuk index.html, Scripct.js dan Style.css itu merupakan praktik membuat website yang dilakukan bersama dengan pemateri.
+Untuk index.html, scripct.js dan style.css itu merupakan praktik membuat website yang dilakukan bersama dengan pemateri.
