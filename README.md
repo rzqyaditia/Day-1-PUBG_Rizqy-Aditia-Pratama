@@ -29,8 +29,6 @@ Beberapa konsep penting yang dipelajari:
 - Area staging berfungsi sebagai ruang penyiapan yang memungkinkan modifikasi dilakukan sebelum proses commit dilaksanakan.
 - Repositori merupakan entitas yang berfungsi sebagai wadah penyimpanan Git untuk mendokumentasikan dan mengelola seluruh riwayat evolusi sebuah proyek.
 - Commit merupakan mekanisme untuk menabadkan modifikasi yang telah dilakukan ke dalam jejak historis Git.
-- Branch: cabang pengembangan proyek.
-- Pull Request: cara mengajukan perubahan yang ingin diperiksa dan digabungkan.
 
 4. Perintah Dasar Git :
 
