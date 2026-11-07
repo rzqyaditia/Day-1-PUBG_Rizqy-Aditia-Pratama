@@ -63,4 +63,4 @@ Menurut saya, kegiatan hari pertama workshop proyek membantu saya memahami lebih
 
 NOTEE !!
 
-Untuk index.html, scripct.js dan style.css itu merupakan praktik membuat website yang dilakukan bersama dengan pemateri.
+Untuk index.html, script.js dan style.css itu merupakan praktik membuat website yang dilakukan bersama dengan pemateri.
