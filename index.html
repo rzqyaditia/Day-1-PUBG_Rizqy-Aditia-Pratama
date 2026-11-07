@@ -1,14 +1,53 @@
 <!DOCTYPE html>
-<html>
+<html lang="id">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Student Task Planner</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
-    <h1>Student Task Planner</h1>
-    <p>Kelola tugas dan deadline kuliahmu!</p>
+    <div class="container">
+
+        <h1>Student Task Planner</h1>
+        <p class="subtitle">
+            Kelola tugas dan deadline kuliahmu!
+        </p>
+
+        <form id="taskForm">
+            <input
+                type="text"
+                id="taskInput"
+                placeholder="Masukkan nama tugas..."
+                required
+            >
+
+            <input
+                type="date"
+                id="deadlineInput"
+                required
+            >
+
+            <button type="submit">Tambah Tugas</button>
+        </form>
+
+        <div class="filters">
+            <button type="button" class="filter-btn active"
+                data-filter="all">Semua</button>
+
+            <button type="button" class="filter-btn"
+                data-filter="pending">Belum Selesai</button>
+
+            <button type="button" class="filter-btn"
+                data-filter="completed">Selesai</button>
+        </div>
+
+        <ul id="taskList" class="task-list"></ul>
+
+    </div>
 
     <script src="script.js"></script>
+
 </body>
 </html>
