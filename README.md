@@ -11,8 +11,7 @@ Tujuan Repository :
 
 Dokumentasi Kegiatan Workshop : 
 
-1. Prompt Engineering
-Prompt engineering adalah metode untuk membuat instruksi yang tepat agar AI bisa memberikan jawaban yang benar, cocok, dan sesuai dengan apa yang diinginkan.
+1. Prompt Engineering adalah metode untuk membuat instruksi yang tepat agar AI bisa memberikan jawaban yang benar, cocok, dan sesuai dengan apa yang diinginkan.
 
 Struktur prompt yang baik terdiri dari:
 - Role: menentukan peran AI.
@@ -33,7 +32,7 @@ Beberapa konsep penting yang dipelajari:
 - Branch: cabang pengembangan proyek.
 - Pull Request: cara mengajukan perubahan yang ingin diperiksa dan digabungkan.
 
-4. Perintah Dasar Git
+4. Perintah Dasar Git :
 
 - `git init` berfungsi untuk menginisialisasi sebuah repository lokal.
 - `git add .` berfungsi untuk menempatkan segala perubahan ke dalam staging area.
@@ -43,8 +42,7 @@ Beberapa konsep penting yang dipelajari:
 - `git push origin main` berfungsi untuk mengirimkan modifikasi terbaru ke repositori GitHub.
 - `git pull origin main` berfungsi untuk memuatkan perubahan terkini daripada repositori GitHub.
 
-5. Praktik Workshop
-Kegiatan ini mencakup pelaksanaan praktik pengembangaran proyek sederhana yang diberi nama Student Task Planner, dengan memanfaatkan HTML, CSS, serta JavaScript.
+5. Praktik Workshop : Kegiatan ini mencakup pelaksanaan praktik pengembangaran proyek sederhana yang diberi nama Student Task Planner, dengan memanfaatkan HTML, CSS, serta JavaScript.
 
 Tahapan praktik meliputi:
 1. Membuat folder proyek di Visual Studio Code.
